@@ -13,7 +13,7 @@ You will be able to:
 
 ## Loading the JSON file
 
-Load the data from the file disease_data.json.
+Load the data from the file 2016_cdc_data.json.
 
 
 ```python
